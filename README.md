@@ -1,3 +1,3 @@
-# Application for New League of Legends Players
+# CS 4330
 
-> Init
+> Messing with java 
