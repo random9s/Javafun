@@ -1,3 +1,3 @@
-# Application for New League of Legeneds Players
+# Application for New League of Legends Players
 
 > Init
